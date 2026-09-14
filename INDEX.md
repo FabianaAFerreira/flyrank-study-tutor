@@ -45,7 +45,7 @@ This index links every deliverable submitted across the 8-week General AI Fluenc
 
 ## Week 7
 
-- **Break Your Own Site** — submitted as a link on the portal (not a file) — [add link]
+- **Break Your Own Site** — `Empty_But_Live_Fabiana_EN.pdf` *(same break-testing + SEO document also referenced under Week 6's "Make It Do Something" — confirmed by Fabiana as the file submitted for this task)*
 - **Plant Your Flag: Domain + Badge** — `Leave_Mark_Fabiana_EN.pdf` *(confirmed: header reads "Week 7 — Submit", domain + badge decision)*
 
 ## Week 8
